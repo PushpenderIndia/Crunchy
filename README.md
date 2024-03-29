@@ -20,7 +20,7 @@ Because of Cracking speed (Hardly 2-5 passwords a Minute)
 
 If you've 1080 Ti (8 GB VRAM), then you could get roughly 47,876 MH/s i.e. 47,876 Millions of Hashes per seconds
 
-That's Crazy number,
+That's a Crazy number,
 
 In this video, Kevin Mitnick has shown with a demo of HashCat: https://www.youtube.com/watch?v=K-96JmC2AkE
 
