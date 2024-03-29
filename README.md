@@ -22,4 +22,4 @@ $ ./Crunchy
 - If you are unable to crack password using this script
 - Then try downloading a wordlist from this website:
 - https://weakpass.com/
-- If Still not getting success, then Move to another target or Try Any Other Method
+- If Still not getting success, then Move to another target or Try Any Other Method (Evil Twin, etc)
