@@ -22,9 +22,11 @@ If you've 1080 Ti (8 GB VRAM), then you could get roughly 47,876 MH/s i.e. 47,87
 
 That's a Crazy number,
 
-In this video, Kevin Mitnick has shown with a demo of HashCat: https://www.youtube.com/watch?v=K-96JmC2AkE
+In this video, Kevin Mitnick has shown with a demo of HashCat to prove this number: https://www.youtube.com/watch?v=K-96JmC2AkE
 
-That how easy it is to Crack Passwords at a speed of Billions per seconds 
+And there is no limit of cracking speed, you could run the hash cracking on Powerful Rented Server with maybe 128 GB of Graphic Card!
+
+That how easy it is to Crack a Password at a speed of Billions per seconds 
 
 ## Usage
 ```
